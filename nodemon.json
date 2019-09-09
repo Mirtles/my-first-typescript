@@ -6,5 +6,5 @@
   "ignore": [
       "src/**/*.spec.ts"
   ],
-  "exec": "npx ts-node ./src/index2.ts"
+  "exec": "npx ts-node ./src/uniontypes.ts"
 }
